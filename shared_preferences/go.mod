@@ -1,4 +1,4 @@
-module github.com/go-flutter-desktop/plugins/shared_preferences
+module github.com/Yuzuki616/plugins/shared_preferences
 
 go 1.19
 
