@@ -11,7 +11,7 @@ import (
 	"github.com/syndtr/goleveldb/leveldb/opt"
 )
 
-const channelName = "plugins.flutter.io/shared_preferences_macos"
+const channelName = "plugins.flutter.io/shared_preferences_windows"
 
 // SharedPreferencesPlugin implements flutter.Plugin and handles method calls to
 // the plugins.flutter.io/shared_preferences channel. Preferences are stored
